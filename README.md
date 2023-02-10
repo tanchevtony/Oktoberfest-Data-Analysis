@@ -1,4 +1,4 @@
-# -Data-Analytics-Projects
+# -Data-Analytics-Oktoberfest-Project
 Data Analyst Portfolio Projects
 
 A little bit of theory
