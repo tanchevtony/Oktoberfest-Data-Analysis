@@ -1,5 +1,5 @@
-# -Data-Analytics-Oktoberfest-Project
-Data Analyst Portfolio Projects
+# Oktoberfest-Data-Analysis
+Data Analysis Portfolio Project
 
 A little bit of theory
 I won’t spend much time writing about the economics theory for inflation and its consequences, as this is a topic for a much longer article with a different focus. To define inflation in one sentence — it is the general rise in the price level of an economy over a period of time. It means that when the general price level rises, with each unit of currency (be it dollars, euros, etc.) we can buy fewer units of certain goods or services. And that is the reduction in the purchasing power of money that was mentioned before.
